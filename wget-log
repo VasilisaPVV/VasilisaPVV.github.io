@@ -1,0 +1,11 @@
+--2025-05-23 06:30:49--  https://pl.yamaha.com/pl/files/B4851F1DBB7B4AC2980E5C7F8AE91628_12073_97cc329d2145a06c31d1bd7195b15b53.jpg?impolicy=resize
+Resolving pl.yamaha.com (pl.yamaha.com)... 23.218.58.201, 2a02:26f0:1180:188::16dc, 2a02:26f0:1180:181::16dc
+Connecting to pl.yamaha.com (pl.yamaha.com)|23.218.58.201|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81838 (80K) [image/png]
+Saving to: ‘B4851F1DBB7B4AC2980E5C7F8AE91628_12073_97cc329d2145a06c31d1bd7195b15b53.jpg?impolicy=resize’
+
+                   B4851F1DBB7B4AC298   0%[                                                                       ]       0  --.-KB/s               B4851F1DBB7B4AC2980E5C7F8AE91628_1207 100%[======================================================================>]  79,92K  --.-KB/s    in 0,02s   
+
+2025-05-23 06:30:50 (3,63 MB/s) - ‘B4851F1DBB7B4AC2980E5C7F8AE91628_12073_97cc329d2145a06c31d1bd7195b15b53.jpg?impolicy=resize’ saved [81838/81838]
+
